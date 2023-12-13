@@ -17,13 +17,13 @@ class _ExpensesState extends State<Expenses> {
       title: 'Flutter Course',
       amount: 19.99,
       date: DateTime.now(),
-      category: Category.work,
+      category: Category.education,
     ),
     Expense(
       title: 'Tutanota',
       amount: 12.00,
       date: DateTime.now(),
-      category: Category.other,
+      category: Category.subscriptions,
     ),
   ];
 
